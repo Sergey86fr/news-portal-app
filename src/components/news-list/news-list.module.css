@@ -1,0 +1,12 @@
+.list {
+    padding: 10px 20px;
+}
+
+.blockNews {
+    margin-bottom: 50px;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+}

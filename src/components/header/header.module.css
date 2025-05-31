@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  height: 28px;
+}
+
+.burgerMenu {
+  height: 100%;
+}
+
+.title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 10%;
+}
